@@ -102,27 +102,27 @@ The company faces limited customer reach and low online visibility, hindering po
 
 ### DFD: Context Diagram
 
-![DFD: Context Diagram](https://github.com/Ahmed-Mostafa-88/Laptop_Online_Store/blob/main/assets/144740078/fc0c6e9f-1cfc-4045-8d74-eb842da2d1c2.png)
+![DFD: Context Diagram](https://github.com/Ahmed-Mostafa-88/Laptop_Online_Store/blob/main/Screenshot%202024-01-28%20022939.png?raw=true)
 
 ### DFD: Level 1
 
-![DFD: Level 1](https://github.com/Ahmed-Mostafa-88/Laptop_Online_Store/blob/main/assets/144740078/9b8bfe2f-7397-40e8-9007-6344271c4f29.png)
+![DFD: Level 1](https://github.com/Ahmed-Mostafa-88/Laptop_Online_Store/blob/main/Screenshot%202024-01-28%20023011.png?raw=true)
 
 ### DFD: Level 2
 
-![DFD: Level 2](https://github.com/Ahmed-Mostafa-88/Laptop_Online_Store/blob/main/assets/144740078/4fdd81bf-b5e1-4232-b068-4eb9f32aa95e.png)
+![DFD: Level 2](https://github.com/Ahmed-Mostafa-88/Laptop_Online_Store/blob/main/Screenshot%202024-01-28%20023059.png?raw=true)
 
 ## Figures
 
 - Refer to the following figures for visual representations:
   - **User Login**
-    ![User Login](https://github.com/Ahmed-Mostafa-88/Laptop_Online_Store/blob/main/assets/144740078/05a49f12-2ede-4e8e-8996-e0f89ffd12e3.png)
+    ![User Login](https://github.com/Ahmed-Mostafa-88/Laptop_Online_Store/blob/main/Screenshot%202024-01-28%20023139.png?raw=true)
 
   - **User Registration**
-    ![User Registration](https://github.com/Ahmed-Mostafa-88/Laptop_Online_Store/blob/main/assets/144740078/6276deb2-0e48-4983-be51-af6f56808b00.png)
+    ![User Registration](https://github.com/Ahmed-Mostafa-88/Laptop_Online_Store/blob/main/Screenshot%202024-01-28%20023225.png?raw=true)
 
   - **Laptop Store**
-    ![Laptop Store](https://github.com/Ahmed-Mostafa-88/Laptop_Online_Store/blob/main/assets/144740078/dda3fc1a-ef88-42c5-972a-ffbd6e10aad4.png)
+    ![Laptop Store](https://github.com/Ahmed-Mostafa-88/Laptop_Online_Store/blob/main/Screenshot%202024-01-28%20023307.png?raw=true)
 
   - **Cart**
-    ![Cart](![image](https://github.com/Ahmed-Mostafa-88/Laptop_Online_Store/assets/144740078/77e35784-0e99-4641-9f61-ef68c3c45ff9))
+    ![Cart](https://github.com/Ahmed-Mostafa-88/Laptop_Online_Store/blob/main/Screenshot%202024-01-28%20023347.png?raw=true))
