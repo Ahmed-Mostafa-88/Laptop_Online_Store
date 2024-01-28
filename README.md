@@ -121,8 +121,9 @@ The company faces limited customer reach and low online visibility, hindering po
   - **User Registration**
     ![User Registration](https://github.com/Ahmed-Mostafa-88/Laptop_Online_Store/blob/main/Screenshot%202024-01-28%20023225.png?raw=true)
 
+
   - **Laptop Store**
     ![Laptop Store](https://github.com/Ahmed-Mostafa-88/Laptop_Online_Store/blob/main/Screenshot%202024-01-28%20023307.png?raw=true)
 
   - **Cart**
-    ![Cart](https://github.com/Ahmed-Mostafa-88/Laptop_Online_Store/blob/main/Screenshot%202024-01-28%20023347.png?raw=true))
+    ![Cart](https://github.com/Ahmed-Mostafa-88/Laptop_Online_Store/blob/main/Screenshot%202024-01-28%20023347.png?raw=true)
