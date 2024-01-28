@@ -98,32 +98,31 @@ The company faces limited customer reach and low online visibility, hindering po
 
 ### ERD
 
-![ERD](![image](https://github.com/Ahmed-Mostafa-88/Laptop_Online_Store/assets/144740078/bb30f0c3-1308-410d-96c0-595618bf3a3c))
+![ERD](https://github.com/Ahmed-Mostafa-88/Laptop_Online_Store/blob/main/assets/144740078/bb30f0c3-1308-410d-96c0-595618bf3a3c.png)
 
 ### DFD: Context Diagram
 
-![DFD: Context Diagram](![image](https://github.com/Ahmed-Mostafa-88/Laptop_Online_Store/assets/144740078/fc0c6e9f-1cfc-4045-8d74-eb842da2d1c2))
+![DFD: Context Diagram](https://github.com/Ahmed-Mostafa-88/Laptop_Online_Store/blob/main/assets/144740078/fc0c6e9f-1cfc-4045-8d74-eb842da2d1c2.png)
 
 ### DFD: Level 1
 
-![DFD: Level 1](![image](https://github.com/Ahmed-Mostafa-88/Laptop_Online_Store/assets/144740078/9b8bfe2f-7397-40e8-9007-6344271c4f29))
+![DFD: Level 1](https://github.com/Ahmed-Mostafa-88/Laptop_Online_Store/blob/main/assets/144740078/9b8bfe2f-7397-40e8-9007-6344271c4f29.png)
 
 ### DFD: Level 2
 
-![DFD: Level 2](![image](https://github.com/Ahmed-Mostafa-88/Laptop_Online_Store/assets/144740078/4fdd81bf-b5e1-4232-b068-4eb9f32aa95e))
+![DFD: Level 2](https://github.com/Ahmed-Mostafa-88/Laptop_Online_Store/blob/main/assets/144740078/4fdd81bf-b5e1-4232-b068-4eb9f32aa95e.png)
 
 ## Figures
 
 - Refer to the following figures for visual representations:
   - **User Login**
-    ![User Login](![image](https://github.com/Ahmed-Mostafa-88/Laptop_Online_Store/assets/144740078/05a49f12-2ede-4e8e-8996-e0f89ffd12e3))
+    ![User Login](https://github.com/Ahmed-Mostafa-88/Laptop_Online_Store/blob/main/assets/144740078/05a49f12-2ede-4e8e-8996-e0f89ffd12e3.png)
 
   - **User Registration**
-    ![User Registration](![image](https://github.com/Ahmed-Mostafa-88/Laptop_Online_Store/assets/144740078/6276deb2-0e48-4983-be51-af6f56808b00))
+    ![User Registration](https://github.com/Ahmed-Mostafa-88/Laptop_Online_Store/blob/main/assets/144740078/6276deb2-0e48-4983-be51-af6f56808b00.png)
 
   - **Laptop Store**
-    ![Laptop Store](![image](https://github.com/Ahmed-Mostafa-88/Laptop_Online_Store/assets/144740078/dda3fc1a-ef88-42c5-972a-ffbd6e10aad4))
+    ![Laptop Store](https://github.com/Ahmed-Mostafa-88/Laptop_Online_Store/blob/main/assets/144740078/dda3fc1a-ef88-42c5-972a-ffbd6e10aad4.png)
 
   - **Cart**
-    ![Cart](![image](https://github.com/Ahmed-Mostafa-88/Laptop_Online_Store/assets/144740078/4eafe4ff-955d-49f0-be06-4e749b6401dc))
-
+    ![Cart](![image](https://github.com/Ahmed-Mostafa-88/Laptop_Online_Store/assets/144740078/c7f6e64e-c220-40b3-ae47-f95acf44e537))
