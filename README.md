@@ -98,7 +98,7 @@ The company faces limited customer reach and low online visibility, hindering po
 
 ### ERD
 
-![ERD](https://github.com/Ahmed-Mostafa-88/Laptop_Online_Store/blob/main/assets/144740078/bb30f0c3-1308-410d-96c0-595618bf3a3c.png)
+![ERD](https://github.com/Ahmed-Mostafa-88/Laptop_Online_Store/blob/main/Screenshot%202024-01-28%20022825.png?raw=true)
 
 ### DFD: Context Diagram
 
